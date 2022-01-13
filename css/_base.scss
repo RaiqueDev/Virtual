@@ -1,0 +1,218 @@
+$primary-color: #1b1b1b;
+$secund-color: #000000;
+$third-color: #a9ded8;
+$fourth-color: #e6e6e6;
+$fifth-color: #48837d;
+
+.flexCenter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flexStart {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.flexEnd {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.flexSpaceEvenly {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.flexSpaceAround {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.flexSpaceBetween {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+// S P A C E  C O L U M N
+
+.flexSpaceEvenlyColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.flexSpaceAroundColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.flexSpaceBetweenColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+// S T A R T  C O L U M N
+
+.flexStartColumn {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+
+// S T A R T  S P A C E
+
+.flexStartEvenly {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-evenly;
+}
+
+.flexStartAround {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+
+.flexStartBetween {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+// S T A R T  S P A C E  C O L U M N
+
+.flexStartEvenlyColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-evenly;
+}
+
+.flexStartAroundColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+
+.flexStartBetweenColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+// E N D  C O L U M N
+
+.flexEndColumn {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+
+// E N D  S P A C E
+
+.flexEndEvenly {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-evenly;
+}
+
+.flexEndAround {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+
+.flexEndBetween {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+// S T A R T  S P A C E  C O L U M N
+
+.flexEndEvenlyColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-evenly;
+}
+
+.flexEndAroundColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+
+.flexEndBetweenColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+// D I R  C O L U M N
+
+.flexDirColumn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+// D I R  R O W
+
+.flexDirRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  :root {
+    font-size: calc(16px + (24 - 16) * (100vw - 320px) / (1920 - 320));
+  }
+
+  body {
+    width: 100%;
+    height: 100vh;
+
+    font-family: "Saira Condensed", sans-serif;
+
+    button,
+    input {
+      font: 1em "Saira Condensed", sans-serif;
+      line-height: 1.5em;
+    }
+
+    input {
+      color: #181818;
+    }
+
+    .search-bar {
+      display: flex;
+    }
+  }
+}

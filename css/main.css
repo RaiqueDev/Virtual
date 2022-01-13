@@ -1,0 +1,1689 @@
+.flexCenter, .container, .container nav .nav-container .logo .fa-pied-piper-alt, .container nav .nav-container .nav-options .op-dashboard .fa-tachometer-alt, .container nav .nav-container .nav-options .op-profile .fa-id-card-alt, .container nav .nav-container .nav-options .op-utilities .fa-briefcase, .container nav .nav-container .nav-options .op-settings .fa-cog, .container nav .nav-container .nav-options .op-messages .fa-comment-alt, .container nav .nav-container .nav-options .op-analytics .fa-chart-bar, .container nav .nav-container .nav-options .op-integrations .fa-network-wired, .container nav .nav-container .nav-history .history-icon .fa-history, .container nav .nav-container .nav-history .history-icon .fa-ellipsis-h, .container main .header-info .info-notification .fa-level-down-alt, .container main .header-info .info-profile .box-profile, .container main .header-info .info-menu, .container main .main-content .content-aside .aside-options .aside-openproject .openproject-container .box-icon, .container main .main-content .content-aside .aside-options .aside-successfullyCompleted .success-container .box-icon, .container main .main-content .content-aside .aside-options .aside-thisMonthed .thisMonthed-container .box-icon, .container main .main-content .content-aside .aside-date, .container main .main-content .content-aside .aside-audit .audit-graphic, .container main .main-content .content-aside .aside-audit .audit-graphic .box-porcent {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.flexStart {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.flexEnd {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.flexSpaceEvenly {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.flexSpaceAround, .container main .header-info .info-profile, .container main .main-content .content-aside .aside-options .aside-openproject, .container main .main-content .content-aside .aside-options .aside-successfullyCompleted, .container main .main-content .content-aside .aside-options .aside-thisMonthed {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.flexSpaceBetween, .container nav .nav-container .nav-options .op-dashboard, .container nav .nav-container .nav-options .op-profile, .container nav .nav-container .nav-options .op-utilities, .container nav .nav-container .nav-options .op-settings, .container nav .nav-container .nav-options .op-messages, .container nav .nav-container .nav-options .op-analytics, .container nav .nav-container .nav-options .op-integrations, .container main .main-header, .container main .header-info, .container main .header-info .info-notification, .container main .header-info .info-notification p, .container main .main-content, .container main .main-content .content-aside .aside-options .aside-openproject .openproject-container, .container main .main-content .content-aside .aside-options .aside-successfullyCompleted .success-container, .container main .main-content .content-aside .aside-options .aside-thisMonthed .thisMonthed-container, .container main .main-content .content-aside .aside-analystics .analystics-txt, .container main .main-content .content-aside .aside-date .date-container, .container main .main-content .content-aside .aside-audit .audit-txt {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.flexSpaceEvenlyColumn, .container nav .nav-container .nav-history, .container main .main-content .content-aside .aside-date .date-container .box-1, .container main .main-content .content-aside .aside-date .date-container .box-2, .container main .main-content .content-aside .aside-date .date-container .box-3, .container main .main-content .content-aside .aside-date .date-container .box-4, .container main .main-content .content-aside .aside-date .date-container .box-5, .container main .main-content .content-aside .aside-date .date-container .box-6, .container main .main-content .content-aside .aside-date .date-container .box-7 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.flexSpaceAroundColumn, .container nav .nav-container, .container main .main-content .content-aside .aside-audit {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.flexSpaceBetweenColumn, .container nav .nav-container .nav-options, .container nav .nav-container .nav-history .history-txt, .container main .main-content .content-aside, .container main .main-content .content-aside .aside-options, .container main .main-content .content-aside .aside-analystics {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.flexStartColumn, .container nav .nav-container .nav-options .op-dashboard p, .container nav .nav-container .nav-options .op-profile p, .container nav .nav-container .nav-options .op-utilities p, .container nav .nav-container .nav-options .op-settings p, .container nav .nav-container .nav-options .op-messages p, .container nav .nav-container .nav-options .op-analytics p, .container nav .nav-container .nav-options .op-integrations p {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.flexStartEvenly {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.flexStartAround {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.flexStartBetween, .container nav .nav-container .nav-history .history-icon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.flexStartEvenlyColumn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.flexStartAroundColumn, .container main .main-content .content-aside .aside-options .aside-openproject .openproject-container .openproject-txt, .container main .main-content .content-aside .aside-options .aside-successfullyCompleted .success-container .success-txt, .container main .main-content .content-aside .aside-options .aside-thisMonthed .thisMonthed-container .thisMonthed-txt, .container main .main-content .content-aside .aside-audit .audit-bar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.flexStartBetweenColumn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.flexEndColumn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.flexEndEvenly {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.flexEndAround {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.flexEndBetween, .container nav .nav-container .logo, .container main .main-content .content-aside .aside-analystics .analystics-bars {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.flexEndEvenlyColumn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.flexEndAroundColumn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.flexEndBetweenColumn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.flexDirColumn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.flexDirRow {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+* :root {
+  font-size: calc(16px + (24 - 16) * (100vw - 320px) / (1920 - 320));
+}
+
+* body {
+  width: 100%;
+  height: 100vh;
+  font-family: "Saira Condensed", sans-serif;
+}
+
+* body button,
+* body input {
+  font: 1em "Saira Condensed", sans-serif;
+  line-height: 1.5em;
+}
+
+* body input {
+  color: #181818;
+}
+
+* body .search-bar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  background-color: #1b1b1b;
+}
+
+.container nav {
+  width: 240px;
+  height: 95%;
+}
+
+.container nav .nav-container {
+  width: 100%;
+  height: 100%;
+}
+
+.container nav .nav-container .logo {
+  width: 60%;
+  height: 40px;
+  color: #a9ded8;
+}
+
+.container nav .nav-container .logo .fa-pied-piper-alt {
+  font-size: 40px;
+  width: 30%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.container nav .nav-container .logo p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 25px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  cursor: pointer;
+  color: #a9ded8;
+}
+
+.container nav .nav-container .nav-options {
+  width: 100%;
+  height: 300px;
+  margin-bottom: 60px;
+}
+
+.container nav .nav-container .nav-options .op-dashboard {
+  width: 45%;
+  height: 25px;
+  cursor: pointer;
+  color: #a9ded8;
+}
+
+.container nav .nav-container .nav-options .op-dashboard .fa-tachometer-alt {
+  width: 25px;
+  height: 100%;
+  font-size: 15px;
+}
+
+.container nav .nav-container .nav-options .op-dashboard p {
+  font-size: 14px;
+  width: 75px;
+  height: 100%;
+}
+
+.container nav .nav-container .nav-options .op-profile {
+  width: 45%;
+  height: 25px;
+  cursor: pointer;
+  color: #e6e6e6;
+}
+
+.container nav .nav-container .nav-options .op-profile .fa-id-card-alt {
+  width: 25px;
+  height: 100%;
+  font-size: 15px;
+}
+
+.container nav .nav-container .nav-options .op-profile p {
+  font-size: 14px;
+  width: 75px;
+  height: 100%;
+}
+
+.container nav .nav-container .nav-options .op-utilities {
+  width: 45%;
+  height: 25px;
+  cursor: pointer;
+  color: #e6e6e6;
+}
+
+.container nav .nav-container .nav-options .op-utilities .fa-briefcase {
+  width: 25px;
+  height: 100%;
+  font-size: 15px;
+}
+
+.container nav .nav-container .nav-options .op-utilities p {
+  font-size: 14px;
+  width: 75px;
+  height: 100%;
+}
+
+.container nav .nav-container .nav-options .op-settings {
+  width: 45%;
+  height: 25px;
+  cursor: pointer;
+  color: #e6e6e6;
+}
+
+.container nav .nav-container .nav-options .op-settings .fa-cog {
+  width: 25px;
+  height: 100%;
+  font-size: 15px;
+}
+
+.container nav .nav-container .nav-options .op-settings p {
+  font-size: 14px;
+  width: 75px;
+  height: 100%;
+}
+
+.container nav .nav-container .nav-options .op-messages {
+  width: 45%;
+  height: 25px;
+  cursor: pointer;
+  color: #e6e6e6;
+}
+
+.container nav .nav-container .nav-options .op-messages .fa-comment-alt {
+  width: 25px;
+  height: 100%;
+  font-size: 15px;
+}
+
+.container nav .nav-container .nav-options .op-messages p {
+  font-size: 14px;
+  width: 75px;
+  height: 100%;
+}
+
+.container nav .nav-container .nav-options .op-analytics {
+  width: 45%;
+  height: 25px;
+  cursor: pointer;
+  color: #e6e6e6;
+}
+
+.container nav .nav-container .nav-options .op-analytics .fa-chart-bar {
+  width: 25px;
+  height: 100%;
+  font-size: 15px;
+}
+
+.container nav .nav-container .nav-options .op-analytics p {
+  font-size: 14px;
+  width: 75px;
+  height: 100%;
+}
+
+.container nav .nav-container .nav-options .op-integrations {
+  width: 45%;
+  height: 25px;
+  cursor: pointer;
+  color: #e6e6e6;
+}
+
+.container nav .nav-container .nav-options .op-integrations .fa-network-wired {
+  width: 25px;
+  height: 100%;
+  font-size: 15px;
+}
+
+.container nav .nav-container .nav-options .op-integrations p {
+  font-size: 14px;
+  width: 75px;
+  height: 100%;
+}
+
+.container nav .nav-container .nav-history {
+  width: 85%;
+  height: 130px;
+  background: linear-gradient(69.82deg, #1b1b1b 26.73%, #2c3c3a 125.79%);
+  border-radius: 10px;
+}
+
+.container nav .nav-container .nav-history .history-icon {
+  width: 85%;
+  height: 40px;
+}
+
+.container nav .nav-container .nav-history .history-icon .fa-history {
+  width: 40px;
+  height: 100%;
+  font-size: 19px;
+  color: #e6e6e6;
+}
+
+.container nav .nav-container .nav-history .history-icon .fa-ellipsis-h {
+  width: 40px;
+  height: 100%;
+  font-size: 16px;
+  color: #e6e6e6;
+}
+
+.container nav .nav-container .nav-history .history-txt {
+  width: 95%;
+  height: 65px;
+}
+
+.container nav .nav-container .nav-history .history-txt h1 {
+  width: 90%;
+  height: 20px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 36px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #ffffff;
+}
+
+.container nav .nav-container .nav-history .history-txt p {
+  width: 90%;
+  height: 40px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #ffffff;
+}
+
+.container main {
+  width: 85%;
+  max-width: 1130px;
+  height: 95%;
+  background-color: #000000;
+  border-radius: 30px;
+  margin-right: 10px;
+}
+
+.container main .main-header {
+  width: 100%;
+  height: 94px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 30px 30px 0px 0px;
+}
+
+.container main .main-header .search-bar input,
+.container main .main-header .search-btn,
+.container main .main-header .search-btn:before,
+.container main .main-header .search-btn:after {
+  -webkit-transition: all 0.25s ease-out;
+  transition: all 0.25s ease-out;
+}
+
+.container main .main-header .search-bar input,
+.container main .main-header .search-btn {
+  width: 2.5em;
+  height: 2.5em;
+}
+
+.container main .main-header .search-bar input:invalid:not(:focus),
+.container main .main-header .search-btn {
+  cursor: pointer;
+}
+
+.container main .main-header .search-bar,
+.container main .main-header .search-bar input:focus,
+.container main .main-header .search-bar input:valid {
+  width: 80%;
+}
+
+.container main .main-header .search-bar input:focus,
+.container main .main-header .search-bar input:not(:focus) + .search-btn:focus {
+  outline: transparent;
+}
+
+.container main .main-header .search-bar {
+  margin: auto;
+  padding: 1.5em;
+  max-width: 20em;
+  margin-right: 500px;
+}
+
+.container main .main-header .search-bar input {
+  background: transparent;
+  border-radius: 1.5em;
+  -webkit-box-shadow: 0 0 0 0.4em #d9d9d9 inset;
+          box-shadow: 0 0 0 0.4em #d9d9d9 inset;
+  padding: 0.75em;
+  -webkit-transform: translate(0.5em, 0.5em) scale(0.5);
+          transform: translate(0.5em, 0.5em) scale(0.5);
+  -webkit-transform-origin: 100% 0;
+          transform-origin: 100% 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+.container main .main-header .search-bar input::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+.container main .main-header .search-bar input:focus,
+.container main .main-header .search-bar input:valid {
+  background: #fff;
+  border-radius: 0.375em 0 0 0.375em;
+  -webkit-box-shadow: 0 0 0 0.1em #d9d9d9 inset;
+          box-shadow: 0 0 0 0.1em #d9d9d9 inset;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+
+.container main .main-header .search-btn {
+  background: #d9d9d9;
+  border-radius: 0 0.75em 0.75em 0 / 0 1.5em 1.5em 0;
+  padding: 0.75em;
+  position: relative;
+  -webkit-transform: translate(0.25em, 0.25em) rotate(45deg) scale(0.25, 0.125);
+          transform: translate(0.25em, 0.25em) rotate(45deg) scale(0.25, 0.125);
+  -webkit-transform-origin: 0 50%;
+          transform-origin: 0 50%;
+}
+
+.container main .main-header .search-btn:before,
+.container main .main-header .search-btn:after {
+  content: "";
+  display: block;
+  opacity: 0;
+  position: absolute;
+}
+
+.container main .main-header .search-btn:before {
+  border-radius: 50%;
+  -webkit-box-shadow: 0 0 0 0.2em #f1f1f1 inset;
+          box-shadow: 0 0 0 0.2em #f1f1f1 inset;
+  top: 0.45em;
+  left: 0.49em;
+  width: 1.2em;
+  height: 1.2em;
+}
+
+.container main .main-header .search-btn:after {
+  background: #f1f1f1;
+  border-radius: 0 0.25em 0.25em 0;
+  top: 51%;
+  left: 51%;
+  width: 0.55em;
+  height: 0.25em;
+  -webkit-transform: translate(0.2em, 0) rotate(45deg);
+          transform: translate(0.2em, 0) rotate(45deg);
+  -webkit-transform-origin: 0 50%;
+          transform-origin: 0 50%;
+}
+
+.container main .main-header .search-btn span {
+  display: inline-block;
+  overflow: hidden;
+  width: 1px;
+  height: 1px;
+}
+
+.container main .main-header .search-bar input:focus + .search-btn,
+.container main .main-header .search-bar input:valid + .search-btn {
+  background: #a9ded8;
+  border-radius: 0 0.375em 0.375em 0;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+
+.container main .main-header .search-bar input:focus + .search-btn:before,
+.container main .main-header .search-bar input:focus + .search-btn:after,
+.container main .main-header .search-bar input:valid + .search-btn:before,
+.container main .main-header .search-bar input:valid + .search-btn:after {
+  opacity: 1;
+}
+
+.container main .main-header .search-bar input:focus + .search-btn:hover,
+.container main .main-header .search-bar input:valid + .search-btn:hover,
+.container main .main-header .search-bar input:valid:not(:focus) + .search-btn:focus {
+  background: #a9ded8;
+}
+
+.container main .main-header .search-bar input:focus + .search-btn:active,
+.container main .main-header .search-bar input:valid + .search-btn:active {
+  -webkit-transform: translateY(1px);
+          transform: translateY(1px);
+}
+
+.container main .header-info {
+  width: 100%;
+  max-width: 20em;
+  height: 100%;
+}
+
+.container main .header-info .info-notification {
+  width: 70px;
+  height: 100%;
+}
+
+.container main .header-info .info-notification p {
+  width: 50%;
+  height: 50%;
+  color: #e6e6e6;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.container main .header-info .info-notification .fa-level-down-alt {
+  width: 50%;
+  height: 50%;
+  font-size: 10px;
+  color: #e6e6e6;
+  cursor: pointer;
+}
+
+.container main .header-info .info-notification .fa-bell {
+  font-size: 20px;
+  color: #e6e6e6;
+  cursor: pointer;
+}
+
+.container main .header-info .info-profile {
+  width: 170px;
+  height: 100%;
+}
+
+.container main .header-info .info-profile .box-profile {
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  background-color: #e6e6e6;
+  border-radius: 999px;
+}
+
+.container main .header-info .info-profile .box-profile .fa-pied-piper-alt {
+  font-size: 30px;
+  color: #1b1b1b;
+}
+
+.container main .header-info .info-menu {
+  width: 70px;
+  height: 100%;
+}
+
+.container main .header-info .info-menu .fa-align-right {
+  font-size: 24px;
+  color: #a9ded8;
+  cursor: pointer;
+}
+
+.container main .main-content {
+  width: 100%;
+  height: 87%;
+  border-radius: 0px 0px 30px 30px;
+}
+
+.container main .main-content .content-main {
+  width: 100%;
+  max-width: 855px;
+  height: 100%;
+  border-radius: 0px 0px 30px 30px;
+  border: 1px solid #fff;
+}
+
+.container main .main-content .content-aside {
+  width: 25%;
+  height: 100%;
+}
+
+.container main .main-content .content-aside .aside-options {
+  width: 100%;
+  max-width: 253px;
+  height: 200px;
+}
+
+.container main .main-content .content-aside .aside-options .aside-openproject {
+  width: 100%;
+  max-width: 253px;
+  height: 60px;
+  background-color: #1b1b1b;
+  border-radius: 10px;
+}
+
+.container main .main-content .content-aside .aside-options .aside-openproject .openproject-container {
+  width: 80%;
+  height: 80%;
+}
+
+.container main .main-content .content-aside .aside-options .aside-openproject .openproject-container .openproject-txt {
+  width: 60%;
+  height: 100%;
+}
+
+.container main .main-content .content-aside .aside-options .aside-openproject .openproject-container .openproject-txt h1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  margin-top: 10px;
+}
+
+.container main .main-content .content-aside .aside-options .aside-openproject .openproject-container .openproject-txt p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  margin-bottom: 10px;
+}
+
+.container main .main-content .content-aside .aside-options .aside-openproject .openproject-container .box-icon {
+  width: 30px;
+  height: 30px;
+  background-color: #000000;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.container main .main-content .content-aside .aside-options .aside-openproject .openproject-container .box-icon .fa-angle-right {
+  font-size: 18px;
+  color: #e6e6e6;
+}
+
+.container main .main-content .content-aside .aside-options .aside-successfullyCompleted {
+  width: 100%;
+  max-width: 253px;
+  height: 60px;
+  background-color: #a9ded8;
+  border-radius: 10px;
+}
+
+.container main .main-content .content-aside .aside-options .aside-successfullyCompleted .success-container {
+  width: 80%;
+  height: 80%;
+}
+
+.container main .main-content .content-aside .aside-options .aside-successfullyCompleted .success-container .success-txt {
+  width: 60%;
+  height: 100%;
+}
+
+.container main .main-content .content-aside .aside-options .aside-successfullyCompleted .success-container .success-txt h1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #000000;
+  margin-top: 10px;
+}
+
+.container main .main-content .content-aside .aside-options .aside-successfullyCompleted .success-container .success-txt p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.container main .main-content .content-aside .aside-options .aside-successfullyCompleted .success-container .box-icon {
+  width: 30px;
+  height: 30px;
+  background-color: #d9d9d9;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.container main .main-content .content-aside .aside-options .aside-successfullyCompleted .success-container .box-icon .fa-angle-right {
+  font-size: 18px;
+}
+
+.container main .main-content .content-aside .aside-options .aside-thisMonthed {
+  width: 100%;
+  max-width: 253px;
+  height: 60px;
+  background-color: #1b1b1b;
+  border-radius: 10px;
+}
+
+.container main .main-content .content-aside .aside-options .aside-thisMonthed .thisMonthed-container {
+  width: 80%;
+  height: 80%;
+}
+
+.container main .main-content .content-aside .aside-options .aside-thisMonthed .thisMonthed-container .thisMonthed-txt {
+  width: 60%;
+  height: 100%;
+}
+
+.container main .main-content .content-aside .aside-options .aside-thisMonthed .thisMonthed-container .thisMonthed-txt h1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  margin-top: 10px;
+}
+
+.container main .main-content .content-aside .aside-options .aside-thisMonthed .thisMonthed-container .thisMonthed-txt p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  margin-bottom: 10px;
+}
+
+.container main .main-content .content-aside .aside-options .aside-thisMonthed .thisMonthed-container .box-icon {
+  width: 30px;
+  height: 30px;
+  background-color: #000000;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.container main .main-content .content-aside .aside-options .aside-thisMonthed .thisMonthed-container .box-icon .fa-angle-right {
+  font-size: 18px;
+  color: #e6e6e6;
+}
+
+.container main .main-content .content-aside .aside-analystics {
+  width: 100%;
+  max-width: 253px;
+  height: 120px;
+}
+
+.container main .main-content .content-aside .aside-analystics .analystics-txt {
+  width: 100%;
+  height: 30px;
+}
+
+.container main .main-content .content-aside .aside-analystics .analystics-txt h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+}
+
+.container main .main-content .content-aside .aside-analystics .analystics-txt .fa-ellipsis-h {
+  font-size: 16px;
+  color: #e6e6e6;
+}
+
+.container main .main-content .content-aside .aside-analystics .analystics-bars {
+  width: 70%;
+  height: 90px;
+}
+
+.container main .main-content .content-aside .aside-analystics .analystics-bars .bars-1 {
+  width: 50px;
+  height: 70%;
+  background-color: #2c3c3a;
+  border-radius: 10px;
+}
+
+.container main .main-content .content-aside .aside-analystics .analystics-bars .bars-2 {
+  width: 50px;
+  height: 100%;
+  background-color: #2c3c3a;
+  border-radius: 10px;
+}
+
+.container main .main-content .content-aside .aside-analystics .analystics-bars .bars-3 {
+  width: 50px;
+  height: 70%;
+  background-color: #2c3c3a;
+  border-radius: 10px;
+}
+
+.container main .main-content .content-aside .aside-date {
+  width: 100%;
+  max-width: 253px;
+  height: 60px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container {
+  width: 100%;
+  height: 50px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-1 {
+  width: 35px;
+  height: 100%;
+  background-color: #000000;
+  border-radius: 999px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-1 h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  height: 10px;
+  margin-top: 5px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-1 p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  height: 10px;
+  margin-bottom: 5px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-2 {
+  width: 35px;
+  height: 100%;
+  background-color: #a9ded8;
+  border-radius: 999px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-2 h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #000000;
+  height: 10px;
+  margin-top: 5px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-2 p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #000000;
+  height: 10px;
+  margin-bottom: 5px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-3 {
+  width: 35px;
+  height: 100%;
+  background-color: #000000;
+  border-radius: 999px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-3 h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  height: 10px;
+  margin-top: 5px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-3 p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  height: 10px;
+  margin-bottom: 5px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-4 {
+  width: 35px;
+  height: 100%;
+  background-color: #000000;
+  border-radius: 999px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-4 h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  height: 10px;
+  margin-top: 5px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-4 p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  height: 10px;
+  margin-bottom: 5px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-5 {
+  width: 35px;
+  height: 100%;
+  background-color: #000000;
+  border-radius: 999px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-5 h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  height: 10px;
+  margin-top: 5px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-5 p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  height: 10px;
+  margin-bottom: 5px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-6 {
+  width: 35px;
+  height: 100%;
+  background-color: #000000;
+  border-radius: 999px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-6 h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  height: 10px;
+  margin-top: 5px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-6 p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  height: 10px;
+  margin-bottom: 5px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-7 {
+  width: 35px;
+  height: 100%;
+  background-color: #000000;
+  border-radius: 999px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-7 h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  height: 10px;
+  margin-top: 5px;
+}
+
+.container main .main-content .content-aside .aside-date .date-container .box-7 p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  height: 10px;
+  margin-bottom: 5px;
+}
+
+.container main .main-content .content-aside .aside-audit {
+  width: 100%;
+  max-width: 253px;
+  height: 210px;
+}
+
+.container main .main-content .content-aside .aside-audit .audit-txt {
+  width: 100%;
+  height: 20px;
+}
+
+.container main .main-content .content-aside .aside-audit .audit-txt h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+}
+
+.container main .main-content .content-aside .aside-audit .audit-graphic {
+  width: 120px;
+  height: 120px;
+  border-radius: 999px;
+  border: 18px solid #a9ded8;
+}
+
+.container main .main-content .content-aside .aside-audit .audit-graphic .box-porcent {
+  width: 60px;
+  height: 60px;
+  background-color: #a9ded8;
+  border-radius: 999px;
+}
+
+.container main .main-content .content-aside .aside-audit .audit-graphic .box-porcent h1 {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 23px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #000000;
+}
+
+.container main .main-content .content-aside .aside-audit .audit-bar {
+  width: 100%;
+  height: 50px;
+}
+
+.container main .main-content .content-aside .aside-audit .audit-bar h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  height: 10px;
+}
+
+.container main .main-content .content-aside .aside-audit .audit-bar p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 28px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #e6e6e6;
+  height: 10px;
+}
+
+.container main .main-content .content-aside .aside-audit .audit-bar .bar {
+  width: 80%;
+  height: 5px;
+  background-color: #1b1b1b;
+  border-radius: 999px;
+}
+
+.container main .main-content .content-aside .aside-audit .audit-bar .bar .bar-container {
+  width: 50%;
+  height: 100%;
+  background-color: #a9ded8;
+}
+
+/*
+.aside-openproject {
+            width: 100%;
+            max-width: 253px;
+            height: 60px;
+
+            background-color: brown;
+            border-radius: 10px;
+
+            .openproject-container {
+              width: 80%;
+              height: 80%;
+
+              @extend .flexSpaceBetween;
+
+              .openproject-txt {
+                width: 60%;
+                height: 100%;
+
+                @extend .flexStartAroundColumn;
+
+                h1 {
+                  font-style: normal;
+                  font-weight: 400;
+                  font-size: 12px;
+                  line-height: 28px;
+                  display: flex;
+                  align-items: center;
+
+                  color: $secund-color;
+
+                  margin-top: 10px;
+                }
+
+                p {
+                  font-style: normal;
+                  font-weight: 500;
+                  font-size: 23px;
+                  line-height: 28px;
+                  display: flex;
+                  align-items: center;
+
+                  color: $secund-color;
+                  margin-bottom: 10px;
+                }
+              }
+
+              .box-icon {
+                width: 30px;
+                height: 30px;
+
+                @extend .flexCenter;
+
+                background-color: #d9d9d9;
+                border-radius: 5px;
+                cursor: pointer;
+
+                .fa-angle-right {
+                  font-size: 18px;
+                }
+              }
+            }
+          }
+
+          .aside-successfullyCompleted {
+            width: 100%;
+            max-width: 253px;
+            height: 60px;
+
+            @extend .flexSpaceAround;
+
+            background-color: $third-color;
+            border-radius: 10px;
+
+            .success-container {
+              width: 80%;
+              height: 80%;
+
+              @extend .flexSpaceBetween;
+
+              .success-txt {
+                width: 60%;
+                height: 100%;
+
+                @extend .flexStartAroundColumn;
+
+                h1 {
+                  font-style: normal;
+                  font-weight: 400;
+                  font-size: 12px;
+                  line-height: 28px;
+                  display: flex;
+                  align-items: center;
+
+                  color: $secund-color;
+
+                  margin-top: 10px;
+                }
+
+                p {
+                  font-style: normal;
+                  font-weight: 500;
+                  font-size: 23px;
+                  line-height: 28px;
+                  display: flex;
+                  align-items: center;
+
+                  color: $secund-color;
+                  margin-bottom: 10px;
+                }
+              }
+
+              .box-icon {
+                width: 30px;
+                height: 30px;
+
+                @extend .flexCenter;
+
+                background-color: #d9d9d9;
+                border-radius: 5px;
+                cursor: pointer;
+
+                .fa-angle-right {
+                  font-size: 18px;
+                }
+              }
+            }
+          }
+
+          .aside-thisMonthed {
+            width: 100%;
+            max-width: 253px;
+            height: 60px;
+
+            background-color: $primary-color;
+            border-radius: 10px;
+
+            .thisMonthed-container {
+              width: 80%;
+              height: 80%;
+
+              @extend .flexSpaceBetween;
+
+              .thisMonthed-txt {
+                width: 60%;
+                height: 100%;
+
+                @extend .flexStartAroundColumn;
+
+                h1 {
+                  font-style: normal;
+                  font-weight: 400;
+                  font-size: 12px;
+                  line-height: 28px;
+                  display: flex;
+                  align-items: center;
+
+                  color: $secund-color;
+
+                  margin-top: 10px;
+                }
+
+                p {
+                  font-style: normal;
+                  font-weight: 500;
+                  font-size: 23px;
+                  line-height: 28px;
+                  display: flex;
+                  align-items: center;
+
+                  color: $secund-color;
+                  margin-bottom: 10px;
+                }
+              }
+
+              .box-icon {
+                width: 30px;
+                height: 30px;
+
+                @extend .flexCenter;
+
+                background-color: #d9d9d9;
+                border-radius: 5px;
+                cursor: pointer;
+
+                .fa-angle-right {
+                  font-size: 18px;
+                }
+              }
+            }
+          }
+        }
+*/
+/*# sourceMappingURL=main.css.map */
