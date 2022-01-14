@@ -1,4 +1,4 @@
-.flexCenter, .container, .container nav .nav-container .logo .fa-pied-piper-alt, .container nav .nav-container .nav-options .op-dashboard .fa-tachometer-alt, .container nav .nav-container .nav-options .op-profile .fa-id-card-alt, .container nav .nav-container .nav-options .op-utilities .fa-briefcase, .container nav .nav-container .nav-options .op-settings .fa-cog, .container nav .nav-container .nav-options .op-messages .fa-comment-alt, .container nav .nav-container .nav-options .op-analytics .fa-chart-bar, .container nav .nav-container .nav-options .op-integrations .fa-network-wired, .container nav .nav-container .nav-history .history-icon .fa-history, .container nav .nav-container .nav-history .history-icon .fa-ellipsis-h, .container main .header-info .info-notification .fa-level-down-alt, .container main .header-info .info-profile .box-profile, .container main .header-info .info-menu, .container main .main-content .content-aside .aside-options .aside-openproject .openproject-container .box-icon, .container main .main-content .content-aside .aside-options .aside-successfullyCompleted .success-container .box-icon, .container main .main-content .content-aside .aside-options .aside-thisMonthed .thisMonthed-container .box-icon, .container main .main-content .content-aside .aside-date, .container main .main-content .content-aside .aside-audit .audit-graphic, .container main .main-content .content-aside .aside-audit .audit-graphic .box-porcent {
+.flexCenter, .container, .container nav .nav-container .logo .fa-pied-piper-alt, .container nav .nav-container .nav-options .op-dashboard .fa-tachometer-alt, .container nav .nav-container .nav-options .op-profile .fa-id-card-alt, .container nav .nav-container .nav-options .op-utilities .fa-briefcase, .container nav .nav-container .nav-options .op-settings .fa-cog, .container nav .nav-container .nav-options .op-messages .fa-comment-alt, .container nav .nav-container .nav-options .op-analytics .fa-chart-bar, .container nav .nav-container .nav-options .op-integrations .fa-network-wired, .container nav .nav-container .nav-history .history-icon .fa-history, .container nav .nav-container .nav-history .history-icon .fa-ellipsis-h, .container main .header-info .info-notification .fa-level-down-alt, .container main .header-info .info-profile .box-profile, .container main .header-info .info-menu, .container main .main-content .content-main .contentMain-main .contentMain-checked .slideThree, .container main .main-content .content-main .contentMain-main .contentMain-checked .slideThree:after, .container main .main-content .content-main .contentMain-main .contentMain-checked .slideThree:before, .container main .main-content .content-main .contentMain-Options .Option-1 .Option-icon, .container main .main-content .content-main .contentMain-Options .Option-2 .Option-icon, .container main .main-content .content-main .contentMain-Options .Option-3 .Option-icon, .container main .main-content .content-main .contentMain-Options .Option-4 .Option-icon, .container main .main-content .content-main .contentMain-text .text-1 .txt-1, .container main .main-content .content-main .contentMain-text .text-1 .txt-2, .container main .main-content .content-main .contentMain-text .text-1 .txt-3, .container main .main-content .content-main .contentMain-text .text-1 .txt-4, .container main .main-content .content-main .contentMain-text .text-1 .btn-txt, .container main .main-content .content-main .contentMain-text .text-1 .txt-6, .container main .main-content .content-main .contentMain-text .text-2 .txt-1, .container main .main-content .content-main .contentMain-text .text-2 .txt-2, .container main .main-content .content-main .contentMain-text .text-2 .txt-3, .container main .main-content .content-main .contentMain-text .text-2 .txt-4, .container main .main-content .content-main .contentMain-text .text-2 .btn-txt, .container main .main-content .content-main .contentMain-text .text-2 .txt-6, .container main .main-content .content-main .contentMain-text .text-3 .txt-1, .container main .main-content .content-main .contentMain-text .text-3 .txt-2, .container main .main-content .content-main .contentMain-text .text-3 .txt-3, .container main .main-content .content-main .contentMain-text .text-3 .txt-4, .container main .main-content .content-main .contentMain-text .text-3 .btn-txt, .container main .main-content .content-main .contentMain-text .text-3 .txt-6, .container main .main-content .content-aside .aside-options .aside-openproject .openproject-container .box-icon, .container main .main-content .content-aside .aside-options .aside-successfullyCompleted .success-container .box-icon, .container main .main-content .content-aside .aside-options .aside-thisMonthed .thisMonthed-container .box-icon, .container main .main-content .content-aside .aside-date, .container main .main-content .content-aside .aside-audit .audit-graphic, .container main .main-content .content-aside .aside-audit .audit-graphic .box-porcent {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -10,7 +10,7 @@
           justify-content: center;
 }
 
-.flexStart {
+.flexStart, .container main .main-content .content-main .contentMain-header .header-sessions .sessions-icon, .container main .main-content .content-main .contentMain-header .header-avgSessions .avgSessions-icon, .container main .main-content .content-main .contentMain-header .header-bounceRate .bounceRate-icon, .container main .main-content .content-main .contentMain-header .header-watchTime .watchTime-icon {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -34,7 +34,7 @@
           justify-content: center;
 }
 
-.flexSpaceEvenly {
+.flexSpaceEvenly, .container main .main-content .content-main .contentMain-Options .Option-1, .container main .main-content .content-main .contentMain-Options .Option-2, .container main .main-content .content-main .contentMain-Options .Option-3, .container main .main-content .content-main .contentMain-Options .Option-4 {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -46,7 +46,7 @@
           justify-content: space-evenly;
 }
 
-.flexSpaceAround, .container main .header-info .info-profile, .container main .main-content .content-aside .aside-options .aside-openproject, .container main .main-content .content-aside .aside-options .aside-successfullyCompleted, .container main .main-content .content-aside .aside-options .aside-thisMonthed {
+.flexSpaceAround, .container main .header-info .info-profile, .container main .main-content .content-main .contentMain-graphic .graphic-content .graphic-bottom, .container main .main-content .content-aside .aside-options .aside-openproject, .container main .main-content .content-aside .aside-options .aside-successfullyCompleted, .container main .main-content .content-aside .aside-options .aside-thisMonthed {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -57,7 +57,7 @@
       justify-content: space-around;
 }
 
-.flexSpaceBetween, .container nav .nav-container .nav-options .op-dashboard, .container nav .nav-container .nav-options .op-profile, .container nav .nav-container .nav-options .op-utilities, .container nav .nav-container .nav-options .op-settings, .container nav .nav-container .nav-options .op-messages, .container nav .nav-container .nav-options .op-analytics, .container nav .nav-container .nav-options .op-integrations, .container main .main-header, .container main .header-info, .container main .header-info .info-notification, .container main .header-info .info-notification p, .container main .main-content, .container main .main-content .content-aside .aside-options .aside-openproject .openproject-container, .container main .main-content .content-aside .aside-options .aside-successfullyCompleted .success-container, .container main .main-content .content-aside .aside-options .aside-thisMonthed .thisMonthed-container, .container main .main-content .content-aside .aside-analystics .analystics-txt, .container main .main-content .content-aside .aside-date .date-container, .container main .main-content .content-aside .aside-audit .audit-txt {
+.flexSpaceBetween, .container nav .nav-container .nav-options .op-dashboard, .container nav .nav-container .nav-options .op-profile, .container nav .nav-container .nav-options .op-utilities, .container nav .nav-container .nav-options .op-settings, .container nav .nav-container .nav-options .op-messages, .container nav .nav-container .nav-options .op-analytics, .container nav .nav-container .nav-options .op-integrations, .container main .main-header, .container main .header-info, .container main .header-info .info-notification, .container main .header-info .info-notification p, .container main .main-content, .container main .main-content .content-main .contentMain-header, .container main .main-content .content-main .contentMain-header .header-sessions, .container main .main-content .content-main .contentMain-header .header-avgSessions, .container main .main-content .content-main .contentMain-header .header-bounceRate, .container main .main-content .content-main .contentMain-header .header-watchTime, .container main .main-content .content-main .contentMain-main, .container main .main-content .content-main .contentMain-text .text-1, .container main .main-content .content-main .contentMain-text .text-2, .container main .main-content .content-main .contentMain-text .text-3, .container main .main-content .content-aside .aside-options .aside-openproject .openproject-container, .container main .main-content .content-aside .aside-options .aside-successfullyCompleted .success-container, .container main .main-content .content-aside .aside-options .aside-thisMonthed .thisMonthed-container, .container main .main-content .content-aside .aside-analystics .analystics-txt, .container main .main-content .content-aside .aside-date .date-container, .container main .main-content .content-aside .aside-audit .audit-txt {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -69,7 +69,7 @@
           justify-content: space-between;
 }
 
-.flexSpaceEvenlyColumn, .container nav .nav-container .nav-history, .container main .main-content .content-aside .aside-date .date-container .box-1, .container main .main-content .content-aside .aside-date .date-container .box-2, .container main .main-content .content-aside .aside-date .date-container .box-3, .container main .main-content .content-aside .aside-date .date-container .box-4, .container main .main-content .content-aside .aside-date .date-container .box-5, .container main .main-content .content-aside .aside-date .date-container .box-6, .container main .main-content .content-aside .aside-date .date-container .box-7 {
+.flexSpaceEvenlyColumn, .container nav .nav-container .nav-history, .container main .main-content .content-main .contentMain-main .contentMain-info .info-monthed, .container main .main-content .content-aside .aside-date .date-container .box-1, .container main .main-content .content-aside .aside-date .date-container .box-2, .container main .main-content .content-aside .aside-date .date-container .box-3, .container main .main-content .content-aside .aside-date .date-container .box-4, .container main .main-content .content-aside .aside-date .date-container .box-5, .container main .main-content .content-aside .aside-date .date-container .box-6, .container main .main-content .content-aside .aside-date .date-container .box-7 {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -85,7 +85,7 @@
           justify-content: space-evenly;
 }
 
-.flexSpaceAroundColumn, .container nav .nav-container, .container main .main-content .content-aside .aside-audit {
+.flexSpaceAroundColumn, .container nav .nav-container, .container main .main-content .content-main, .container main .main-content .content-main .contentMain-graphic .graphic-left, .container main .main-content .content-aside .aside-audit {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -155,7 +155,7 @@
       justify-content: space-around;
 }
 
-.flexStartBetween, .container nav .nav-container .nav-history .history-icon {
+.flexStartBetween, .container nav .nav-container .nav-history .history-icon, .container main .main-content .content-main .contentMain-graphic, .container main .main-content .content-main .contentMain-Options {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -183,7 +183,7 @@
           justify-content: space-evenly;
 }
 
-.flexStartAroundColumn, .container main .main-content .content-aside .aside-options .aside-openproject .openproject-container .openproject-txt, .container main .main-content .content-aside .aside-options .aside-successfullyCompleted .success-container .success-txt, .container main .main-content .content-aside .aside-options .aside-thisMonthed .thisMonthed-container .thisMonthed-txt, .container main .main-content .content-aside .aside-audit .audit-bar {
+.flexStartAroundColumn, .container main .main-content .content-main .contentMain-main .contentMain-Title, .container main .main-content .content-main .contentMain-Options .Option-1 .Option-txt, .container main .main-content .content-main .contentMain-Options .Option-2 .Option-txt, .container main .main-content .content-main .contentMain-Options .Option-3 .Option-txt, .container main .main-content .content-main .contentMain-Options .Option-4 .Option-txt, .container main .main-content .content-main .contentMain-text, .container main .main-content .content-aside .aside-options .aside-openproject .openproject-container .openproject-txt, .container main .main-content .content-aside .aside-options .aside-successfullyCompleted .success-container .success-txt, .container main .main-content .content-aside .aside-options .aside-thisMonthed .thisMonthed-container .thisMonthed-txt, .container main .main-content .content-aside .aside-audit .audit-bar {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -198,7 +198,7 @@
       justify-content: space-around;
 }
 
-.flexStartBetweenColumn {
+.flexStartBetweenColumn, .container main .main-content .content-main .contentMain-header .header-sessions .sessions-txt, .container main .main-content .content-main .contentMain-header .header-avgSessions .avgSessions-txt, .container main .main-content .content-main .contentMain-header .header-bounceRate .bounceRate-txt, .container main .main-content .content-main .contentMain-header .header-watchTime .watchTime-txt, .container main .main-content .content-main .contentMain-graphic .graphic-content {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -253,7 +253,7 @@
       justify-content: space-around;
 }
 
-.flexEndBetween, .container nav .nav-container .logo, .container main .main-content .content-aside .aside-analystics .analystics-bars {
+.flexEndBetween, .container nav .nav-container .logo, .container main .main-content .content-main .contentMain-main .contentMain-info, .container main .main-content .content-aside .aside-analystics .analystics-bars {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -855,8 +855,809 @@
   width: 100%;
   max-width: 855px;
   height: 100%;
-  border-radius: 0px 0px 30px 30px;
-  border: 1px solid #fff;
+}
+
+.container main .main-content .content-main .contentMain-header {
+  width: 95%;
+  max-width: 824px;
+  height: 60px;
+}
+
+.container main .main-content .content-main .contentMain-header .header-sessions {
+  width: 103px;
+  height: 55px;
+}
+
+.container main .main-content .content-main .contentMain-header .header-sessions .sessions-icon {
+  width: 30%;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-header .header-sessions .sessions-icon .fa-stopwatch {
+  font-size: 20px;
+  color: #a9ded8;
+}
+
+.container main .main-content .content-main .contentMain-header .header-sessions .sessions-txt {
+  width: 65%;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-header .header-sessions .sessions-txt h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.1px;
+  line-height: 10px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-header .header-sessions .sessions-txt h3 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 10px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-header .header-sessions .sessions-txt p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14.1px;
+  line-height: 10px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-header .header-avgSessions {
+  width: 103px;
+  height: 55px;
+}
+
+.container main .main-content .content-main .contentMain-header .header-avgSessions .avgSessions-icon {
+  width: 30%;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-header .header-avgSessions .avgSessions-icon .fa-desktop {
+  font-size: 20px;
+  color: #a9ded8;
+}
+
+.container main .main-content .content-main .contentMain-header .header-avgSessions .avgSessions-txt {
+  width: 65%;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-header .header-avgSessions .avgSessions-txt h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.1px;
+  line-height: 10px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-header .header-avgSessions .avgSessions-txt h3 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 10px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-header .header-avgSessions .avgSessions-txt p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14.1px;
+  line-height: 10px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-header .header-bounceRate {
+  width: 103px;
+  height: 55px;
+}
+
+.container main .main-content .content-main .contentMain-header .header-bounceRate .bounceRate-icon {
+  width: 30%;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-header .header-bounceRate .bounceRate-icon .fa-stopwatch-20 {
+  font-size: 20px;
+  color: #a9ded8;
+}
+
+.container main .main-content .content-main .contentMain-header .header-bounceRate .bounceRate-txt {
+  width: 65%;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-header .header-bounceRate .bounceRate-txt h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.1px;
+  line-height: 10px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-header .header-bounceRate .bounceRate-txt h3 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 10px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-header .header-bounceRate .bounceRate-txt p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14.1px;
+  line-height: 10px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-header .header-watchTime {
+  width: 103px;
+  height: 55px;
+}
+
+.container main .main-content .content-main .contentMain-header .header-watchTime .watchTime-icon {
+  width: 30%;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-header .header-watchTime .watchTime-icon .fa-clipboard-list {
+  font-size: 20px;
+  color: #a9ded8;
+}
+
+.container main .main-content .content-main .contentMain-header .header-watchTime .watchTime-txt {
+  width: 65%;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-header .header-watchTime .watchTime-txt h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.1px;
+  line-height: 10px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-header .header-watchTime .watchTime-txt h3 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 10px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-header .header-watchTime .watchTime-txt p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14.1px;
+  line-height: 10px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-main {
+  width: 95%;
+  max-width: 824px;
+  height: 90px;
+}
+
+.container main .main-content .content-main .contentMain-main .contentMain-Title {
+  width: 25%;
+  height: 50%;
+  margin-bottom: 35px;
+}
+
+.container main .main-content .content-main .contentMain-main .contentMain-Title h3 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 21px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-main .contentMain-Title p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-main .contentMain-info {
+  width: 45%;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-main .contentMain-info .info-monthed {
+  width: 35%;
+  height: 70%;
+  background-color: #a9ded8;
+  border-radius: 10px;
+  margin-left: -20px;
+  margin-bottom: 10px;
+}
+
+.container main .main-content .content-main .contentMain-main .contentMain-info .info-monthed h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-main .contentMain-info .info-monthed h3 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  color: #000;
+}
+
+.container main .main-content .content-main .contentMain-main .contentMain-checked {
+  width: 17%;
+  height: 40%;
+  margin-bottom: 35px;
+  border-radius: 15px;
+}
+
+.container main .main-content .content-main .contentMain-main .contentMain-checked .slideThree {
+  width: 100%;
+  height: 37px;
+  background: #1b1b1b;
+  position: relative;
+  border-radius: 15px;
+}
+
+.container main .main-content .content-main .contentMain-main .contentMain-checked .slideThree:after {
+  height: 100%;
+  content: "Months";
+  color: #fff;
+  position: absolute;
+  right: 10px;
+  z-index: 0;
+  font: 12px/26px Arial, sans-serif;
+  font-weight: bold;
+}
+
+.container main .main-content .content-main .contentMain-main .contentMain-checked .slideThree:before {
+  height: 100%;
+  content: "Months";
+  color: #fff;
+  position: absolute;
+  left: 10px;
+  z-index: 0;
+  font: 12px/26px Arial, sans-serif;
+  font-weight: bold;
+}
+
+.container main .main-content .content-main .contentMain-main .contentMain-checked .slideThree label {
+  content: "Years";
+  color: #000;
+  display: block;
+  width: 60px;
+  height: 30px;
+  cursor: pointer;
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  z-index: 1;
+  background: #a9ded8;
+  border-radius: 50px;
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
+
+.container main .main-content .content-main .contentMain-main .contentMain-checked .slideThree input[type="checkbox"] {
+  visibility: hidden;
+}
+
+.container main .main-content .content-main .contentMain-main .contentMain-checked .slideThree input[type="checkbox"]:checked + label {
+  left: 75px;
+}
+
+.container main .main-content .content-main .contentMain-graphic {
+  width: 95%;
+  max-width: 824px;
+  height: 220px;
+}
+
+.container main .main-content .content-main .contentMain-graphic .graphic-left {
+  width: 90px;
+  height: 90%;
+}
+
+.container main .main-content .content-main .contentMain-graphic .graphic-left p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-graphic .graphic-content {
+  width: 100%;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-graphic .graphic-content .graphic-img {
+  width: 95%;
+  height: 90%;
+  background-image: url(/img/ImgGraphic.svg);
+  background-position-y: 100%;
+  background-position-x: 100%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.container main .main-content .content-main .contentMain-graphic .graphic-content .graphic-bottom {
+  width: 95%;
+  height: 13%;
+}
+
+.container main .main-content .content-main .contentMain-graphic .graphic-content .graphic-bottom p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 28px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-Options {
+  width: 95%;
+  max-width: 824px;
+  height: 90px;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-1 {
+  width: 150px;
+  height: 90%;
+  background-color: #1b1b1b;
+  border-radius: 10px;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-1 .Option-icon {
+  width: 35px;
+  height: 35px;
+  background-color: #a9ded8;
+  border-radius: 8px;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-1 .Option-icon .fa-hand-point-up {
+  font-size: 15px;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-1 .Option-txt {
+  width: 80px;
+  height: 80px;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-1 .Option-txt h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 10px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-1 .Option-txt h3 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 10px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-1 .Option-txt p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14.1px;
+  line-height: 10px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-2 {
+  width: 150px;
+  height: 90%;
+  background-color: #1b1b1b;
+  border-radius: 10px;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-2 .Option-icon {
+  width: 35px;
+  height: 35px;
+  background-color: #a9ded8;
+  border-radius: 8px;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-2 .Option-icon .fa-hand-point-up {
+  font-size: 15px;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-2 .Option-txt {
+  width: 80px;
+  height: 80px;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-2 .Option-txt h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 10px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-2 .Option-txt h3 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 10px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-2 .Option-txt p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14.1px;
+  line-height: 10px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-3 {
+  width: 150px;
+  height: 90%;
+  background-color: #1b1b1b;
+  border-radius: 10px;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-3 .Option-icon {
+  width: 35px;
+  height: 35px;
+  background-color: #a9ded8;
+  border-radius: 8px;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-3 .Option-icon .fa-hand-point-up {
+  font-size: 15px;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-3 .Option-txt {
+  width: 80px;
+  height: 80px;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-3 .Option-txt h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 10px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-3 .Option-txt h3 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 10px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-3 .Option-txt p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14.1px;
+  line-height: 10px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-4 {
+  width: 150px;
+  height: 90%;
+  background-color: #1b1b1b;
+  border-radius: 10px;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-4 .Option-icon {
+  width: 35px;
+  height: 35px;
+  background-color: #a9ded8;
+  border-radius: 8px;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-4 .Option-icon .fa-hand-point-up {
+  font-size: 15px;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-4 .Option-txt {
+  width: 80px;
+  height: 80px;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-4 .Option-txt h1 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 10px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-4 .Option-txt h3 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 10px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-Options .Option-4 .Option-txt p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14.1px;
+  line-height: 10px;
+  color: #707376;
+}
+
+.container main .main-content .content-main .contentMain-text {
+  width: 95%;
+  max-width: 824px;
+  height: 100px;
+}
+
+.container main .main-content .content-main .contentMain-text .text-1 {
+  width: 100%;
+  height: 20px;
+}
+
+.container main .main-content .content-main .contentMain-text .text-1 .txt-1 {
+  width: 100px;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-text .text-1 .txt-1 p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-text .text-1 .txt-2 {
+  width: 100px;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-text .text-1 .txt-2 p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-text .text-1 .txt-3 {
+  width: 100px;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-text .text-1 .txt-3 p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-text .text-1 .txt-4 {
+  width: 100px;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-text .text-1 .txt-4 p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-text .text-1 .btn-txt {
+  width: 100px;
+  height: 100%;
+  background-color: #1b1b1b;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.container main .main-content .content-main .contentMain-text .text-1 .btn-txt p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-text .text-1 .txt-6 {
+  width: 100px;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-text .text-1 .txt-6 .fa-ellipsis-h {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-text .text-2 {
+  width: 100%;
+  height: 20px;
+}
+
+.container main .main-content .content-main .contentMain-text .text-2 .txt-1 {
+  width: 100px;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-text .text-2 .txt-1 p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-text .text-2 .txt-2 {
+  width: 100px;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-text .text-2 .txt-2 p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-text .text-2 .txt-3 {
+  width: 100px;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-text .text-2 .txt-3 p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-text .text-2 .txt-4 {
+  width: 100px;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-text .text-2 .txt-4 p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-text .text-2 .btn-txt {
+  width: 100px;
+  height: 100%;
+  background-color: #1b1b1b;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.container main .main-content .content-main .contentMain-text .text-2 .btn-txt p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-text .text-2 .txt-6 {
+  width: 100px;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-text .text-2 .txt-6 .fa-ellipsis-h {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-text .text-3 {
+  width: 100%;
+  height: 20px;
+}
+
+.container main .main-content .content-main .contentMain-text .text-3 .txt-1 {
+  width: 100px;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-text .text-3 .txt-1 p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-text .text-3 .txt-2 {
+  width: 100px;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-text .text-3 .txt-2 p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-text .text-3 .txt-3 {
+  width: 100px;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-text .text-3 .txt-3 p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-text .text-3 .txt-4 {
+  width: 100px;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-text .text-3 .txt-4 p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-text .text-3 .btn-txt {
+  width: 100px;
+  height: 100%;
+  background-color: #1b1b1b;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.container main .main-content .content-main .contentMain-text .text-3 .btn-txt p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 27px;
+  color: #ffffff;
+}
+
+.container main .main-content .content-main .contentMain-text .text-3 .txt-6 {
+  width: 100px;
+  height: 100%;
+}
+
+.container main .main-content .content-main .contentMain-text .text-3 .txt-6 .fa-ellipsis-h {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 27px;
+  color: #ffffff;
 }
 
 .container main .main-content .content-aside {
@@ -872,10 +1673,10 @@
 
 .container main .main-content .content-aside .aside-options .aside-openproject {
   width: 100%;
-  max-width: 253px;
-  height: 60px;
+  max-width: 220px;
+  height: 55px;
   background-color: #1b1b1b;
-  border-radius: 10px;
+  border-radius: 7px;
 }
 
 .container main .main-content .content-aside .aside-options .aside-openproject .openproject-container {
@@ -933,10 +1734,10 @@
 
 .container main .main-content .content-aside .aside-options .aside-successfullyCompleted {
   width: 100%;
-  max-width: 253px;
-  height: 60px;
+  max-width: 220px;
+  height: 55px;
   background-color: #a9ded8;
-  border-radius: 10px;
+  border-radius: 7px;
 }
 
 .container main .main-content .content-aside .aside-options .aside-successfullyCompleted .success-container {
@@ -993,10 +1794,10 @@
 
 .container main .main-content .content-aside .aside-options .aside-thisMonthed {
   width: 100%;
-  max-width: 253px;
-  height: 60px;
+  max-width: 220px;
+  height: 55px;
   background-color: #1b1b1b;
-  border-radius: 10px;
+  border-radius: 7px;
 }
 
 .container main .main-content .content-aside .aside-options .aside-thisMonthed .thisMonthed-container {
@@ -1054,7 +1855,7 @@
 
 .container main .main-content .content-aside .aside-analystics {
   width: 100%;
-  max-width: 253px;
+  max-width: 220px;
   height: 120px;
 }
 
@@ -1083,7 +1884,7 @@
 }
 
 .container main .main-content .content-aside .aside-analystics .analystics-bars {
-  width: 70%;
+  width: 80%;
   height: 90px;
 }
 
@@ -1110,7 +1911,7 @@
 
 .container main .main-content .content-aside .aside-date {
   width: 100%;
-  max-width: 253px;
+  max-width: 220px;
   height: 60px;
 }
 
@@ -1394,7 +2195,7 @@
 
 .container main .main-content .content-aside .aside-audit {
   width: 100%;
-  max-width: 253px;
+  max-width: 220px;
   height: 210px;
 }
 
@@ -1492,198 +2293,4 @@
   height: 100%;
   background-color: #a9ded8;
 }
-
-/*
-.aside-openproject {
-            width: 100%;
-            max-width: 253px;
-            height: 60px;
-
-            background-color: brown;
-            border-radius: 10px;
-
-            .openproject-container {
-              width: 80%;
-              height: 80%;
-
-              @extend .flexSpaceBetween;
-
-              .openproject-txt {
-                width: 60%;
-                height: 100%;
-
-                @extend .flexStartAroundColumn;
-
-                h1 {
-                  font-style: normal;
-                  font-weight: 400;
-                  font-size: 12px;
-                  line-height: 28px;
-                  display: flex;
-                  align-items: center;
-
-                  color: $secund-color;
-
-                  margin-top: 10px;
-                }
-
-                p {
-                  font-style: normal;
-                  font-weight: 500;
-                  font-size: 23px;
-                  line-height: 28px;
-                  display: flex;
-                  align-items: center;
-
-                  color: $secund-color;
-                  margin-bottom: 10px;
-                }
-              }
-
-              .box-icon {
-                width: 30px;
-                height: 30px;
-
-                @extend .flexCenter;
-
-                background-color: #d9d9d9;
-                border-radius: 5px;
-                cursor: pointer;
-
-                .fa-angle-right {
-                  font-size: 18px;
-                }
-              }
-            }
-          }
-
-          .aside-successfullyCompleted {
-            width: 100%;
-            max-width: 253px;
-            height: 60px;
-
-            @extend .flexSpaceAround;
-
-            background-color: $third-color;
-            border-radius: 10px;
-
-            .success-container {
-              width: 80%;
-              height: 80%;
-
-              @extend .flexSpaceBetween;
-
-              .success-txt {
-                width: 60%;
-                height: 100%;
-
-                @extend .flexStartAroundColumn;
-
-                h1 {
-                  font-style: normal;
-                  font-weight: 400;
-                  font-size: 12px;
-                  line-height: 28px;
-                  display: flex;
-                  align-items: center;
-
-                  color: $secund-color;
-
-                  margin-top: 10px;
-                }
-
-                p {
-                  font-style: normal;
-                  font-weight: 500;
-                  font-size: 23px;
-                  line-height: 28px;
-                  display: flex;
-                  align-items: center;
-
-                  color: $secund-color;
-                  margin-bottom: 10px;
-                }
-              }
-
-              .box-icon {
-                width: 30px;
-                height: 30px;
-
-                @extend .flexCenter;
-
-                background-color: #d9d9d9;
-                border-radius: 5px;
-                cursor: pointer;
-
-                .fa-angle-right {
-                  font-size: 18px;
-                }
-              }
-            }
-          }
-
-          .aside-thisMonthed {
-            width: 100%;
-            max-width: 253px;
-            height: 60px;
-
-            background-color: $primary-color;
-            border-radius: 10px;
-
-            .thisMonthed-container {
-              width: 80%;
-              height: 80%;
-
-              @extend .flexSpaceBetween;
-
-              .thisMonthed-txt {
-                width: 60%;
-                height: 100%;
-
-                @extend .flexStartAroundColumn;
-
-                h1 {
-                  font-style: normal;
-                  font-weight: 400;
-                  font-size: 12px;
-                  line-height: 28px;
-                  display: flex;
-                  align-items: center;
-
-                  color: $secund-color;
-
-                  margin-top: 10px;
-                }
-
-                p {
-                  font-style: normal;
-                  font-weight: 500;
-                  font-size: 23px;
-                  line-height: 28px;
-                  display: flex;
-                  align-items: center;
-
-                  color: $secund-color;
-                  margin-bottom: 10px;
-                }
-              }
-
-              .box-icon {
-                width: 30px;
-                height: 30px;
-
-                @extend .flexCenter;
-
-                background-color: #d9d9d9;
-                border-radius: 5px;
-                cursor: pointer;
-
-                .fa-angle-right {
-                  font-size: 18px;
-                }
-              }
-            }
-          }
-        }
-*/
 /*# sourceMappingURL=main.css.map */
