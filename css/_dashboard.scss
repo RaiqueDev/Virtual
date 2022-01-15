@@ -601,7 +601,7 @@
           }
 
           .header-avgSessions {
-            width: 103px;
+            width: 133px;
             height: 55px;
 
             @extend .flexSpaceBetween;
@@ -707,7 +707,7 @@
           }
 
           .header-watchTime {
-            width: 103px;
+            width: 123px;
             height: 55px;
 
             @extend .flexSpaceBetween;
@@ -733,7 +733,7 @@
               h1 {
                 font-style: normal;
                 font-weight: 500;
-                font-size: 14.1px;
+                font-size: 13.7px;
                 line-height: 10px;
 
                 color: #707376;
@@ -846,14 +846,13 @@
                 @extend .flexCenter;
 
                 height: 100%;
-                content: "Months";
+                content: "Years";
                 color: #fff;
                 position: absolute;
                 right: 10px;
                 z-index: 0;
                 font: 12px/26px Arial, sans-serif;
                 font-weight: bold;
-
               }
               &:before {
                 @extend .flexCenter;
@@ -1032,7 +1031,7 @@
               background-color: $third-color;
               border-radius: 8px;
 
-              .fa-hand-point-up {
+              .fa-clock {
                 font-size: 15px;
               }
             }
@@ -1090,7 +1089,7 @@
               background-color: $third-color;
               border-radius: 8px;
 
-              .fa-hand-point-up {
+              .fa-users {
                 font-size: 15px;
               }
             }
@@ -1148,7 +1147,7 @@
               background-color: $third-color;
               border-radius: 8px;
 
-              .fa-hand-point-up {
+              .fa-play {
                 font-size: 15px;
               }
             }
@@ -1557,7 +1556,6 @@
                   font-style: normal;
                   font-weight: 400;
                   font-size: 12px;
-                  line-height: 28px;
                   display: flex;
                   align-items: center;
 
@@ -1570,7 +1568,7 @@
                   font-style: normal;
                   font-weight: 500;
                   font-size: 23px;
-                  line-height: 28px;
+                  line-height: 23px;
                   display: flex;
                   align-items: center;
 
@@ -1623,7 +1621,6 @@
                   font-style: normal;
                   font-weight: 400;
                   font-size: 12px;
-                  line-height: 28px;
                   display: flex;
                   align-items: center;
 
@@ -1636,7 +1633,7 @@
                   font-style: normal;
                   font-weight: 500;
                   font-size: 23px;
-                  line-height: 28px;
+                  line-height: 23px;
                   display: flex;
                   align-items: center;
 
@@ -1688,7 +1685,6 @@
                   font-style: normal;
                   font-weight: 400;
                   font-size: 12px;
-                  line-height: 28px;
                   display: flex;
                   align-items: center;
 
@@ -1701,7 +1697,7 @@
                   font-style: normal;
                   font-weight: 500;
                   font-size: 23px;
-                  line-height: 28px;
+                  line-height: 23px;
                   display: flex;
                   align-items: center;
 
@@ -1769,27 +1765,114 @@
               width: 50px;
               height: 70%;
 
-              background-color: #2c3c3a;
+              background-color: $fifth-color;
 
               border-radius: 10px;
+
+              @extend .flexCenter;
+
+              .bars1-container {
+                width: 85%;
+                height: 50%;
+
+                @extend .flexSpaceBetweenColumn;
+
+                margin-top: 8px;
+
+                h1 {
+                  font-style: normal;
+                  font-weight: 600;
+                  font-size: 21px;
+                  line-height: 15px;
+
+                  color: #ffffff;
+                }
+
+                p {
+                  font-style: normal;
+                  font-weight: 500;
+                  font-size: 12px;
+                  line-height: 0px;
+
+                  color: #ffffff;
+                }
+              }
             }
 
             .bars-2 {
               width: 50px;
               height: 100%;
 
-              background-color: #2c3c3a;
+              background-color: $third-color;
 
               border-radius: 10px;
+
+              @extend .flexCenter;
+
+              .bars2-container {
+                width: 85%;
+                height: 37%;
+
+                @extend .flexSpaceBetweenColumn;
+
+                margin-top: 34px;
+
+                h1 {
+                  font-style: normal;
+                  font-weight: 600;
+                  font-size: 21px;
+                  line-height: 15px;
+
+                  color: #000;
+                }
+
+                p {
+                  font-style: normal;
+                  font-weight: 500;
+                  font-size: 12px;
+                  line-height: 0px;
+
+                  color: #000;
+                }
+              }
             }
 
             .bars-3 {
               width: 50px;
               height: 70%;
 
-              background-color: #2c3c3a;
+              background-color: $fifth-color;
 
               border-radius: 10px;
+
+              @extend .flexCenter;
+
+              .bars3-container {
+                width: 85%;
+                height: 50%;
+
+                @extend .flexSpaceBetweenColumn;
+
+                margin-top: 8px;
+
+                h1 {
+                  font-style: normal;
+                  font-weight: 600;
+                  font-size: 21px;
+                  line-height: 15px;
+
+                  color: #ffffff;
+                }
+
+                p {
+                  font-style: normal;
+                  font-weight: 500;
+                  font-size: 12px;
+                  line-height: 0px;
+
+                  color: #ffffff;
+                }
+              }
             }
           }
         }
