@@ -13,6 +13,6 @@
 <br>
 <h2 color="#FFD91E"> D A S H B O A R D </h2>
 
-![Captura de tela de 2022-01-14 15-33-49](https://user-images.githubusercontent.com/96999326/149568519-82325fc7-261b-460b-989e-77c43e2de3e9.png)
+![Captura de tela de 2022-01-15 20-54-02](https://user-images.githubusercontent.com/96999326/149641926-1bedb307-84d4-4f54-95e4-e5069f67d4a4.png)
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raique-ramos-328556210/)
