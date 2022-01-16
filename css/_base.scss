@@ -167,6 +167,21 @@ $fifth-color: #48837d;
   justify-content: space-between;
 }
 
+// 
+
+.flexJustifyStart{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.flexJustifyEnd{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+
 // D I R  C O L U M N
 
 .flexDirColumn {

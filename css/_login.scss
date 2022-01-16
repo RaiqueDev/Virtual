@@ -1,0 +1,292 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+body {
+  font-family: "Spartan", sans-serif;
+}
+
+.container-login {
+  width: 100%;
+  height: 100vh;
+  background-color: #1b1b1b;
+
+  @extend .flexSpaceEvenlyColumn;
+
+  .box-signup {
+    width: 90%;
+    height: 60px;
+
+    @extend .flexJustifyEnd;
+
+    .signup {
+      width: 100px;
+      height: 40px;
+
+      @extend .flexCenter;
+
+      background: #a9ded8;
+      border-radius: 2px;
+
+      font-style: normal;
+      font-weight: 600;
+      font-size: 13px;
+      line-height: 14px;
+      display: flex;
+      align-items: center;
+
+      color: #000000;
+    }
+  }
+
+  .box-login {
+    width: 60%;
+    height: 70%;
+
+    @extend .flexSpaceBetweenColumn;
+
+    .title-login {
+      width: 100%;
+      height: 60px;
+
+      @extend .flexCenter;
+
+      p {
+        font-style: normal;
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 50px;
+        display: flex;
+        align-items: center;
+
+        color: #ffffff;
+      }
+    }
+
+    .login-input {
+      width: 100%;
+      height: 300px;
+
+      @extend .flexSpaceBetween;
+
+      .box-input-1 {
+        width: 45%;
+        height: 80%;
+
+        @extend .flexSpaceAroundColumn;
+
+        .email {
+          background: #262626;
+          outline: none;
+          padding: 20px;
+          width: 100%;
+          height: 60px;
+          color: #fff;
+          margin-top: 10px;
+          font-size: 1em;
+          border-radius: 4px;
+        }
+
+        .password {
+          background: #262626;
+          outline: none;
+          padding: 20px;
+          width: 100%;
+          height: 60px;
+          color: #fff;
+          margin-top: 10px;
+          font-size: 1em;
+          border-radius: 4px;
+        }
+
+        .btn-login {
+          @extend .flexSpaceBetween;
+
+          background: #a9ded8;
+          outline: none;
+          padding: 20px;
+          width: 100%;
+          height: 60px;
+          color: rgb(0, 0, 0);
+          margin-top: 10px;
+          font-size: 1em;
+          border-radius: 4px;
+
+          font-style: normal;
+          font-weight: 600;
+          line-height: 19px;
+          display: flex;
+          align-items: center;
+
+          cursor: pointer;
+        }
+      }
+
+      .bar {
+        width: 5%;
+        height: 100%;
+
+        @extend .flexCenter;
+
+        p {
+          font-style: normal;
+          font-weight: 600;
+          font-size: 28px;
+          line-height: 28px;
+          display: flex;
+          align-items: center;
+
+          color: #ffffff;
+        }
+      }
+
+      .box-input-2 {
+        width: 45%;
+        height: 80%;
+
+        @extend .flexSpaceAroundColumn;
+
+        .btn-google {
+          background: #1b1b1b;
+          border: 1px solid #a9ded8;
+          outline: none;
+          padding-left: 20px;
+          width: 100%;
+          height: 60px;
+          color: #fff;
+          font-size: 1em;
+          border-radius: 4px;
+          cursor: pointer;
+
+          .google-container {
+            width: 150px;
+            height: 30px;
+
+            @extend .flexSpaceBetween;
+
+            .fa-google {
+              width: 15%;
+              height: 100%;
+
+              @extend .flexCenter;
+            }
+
+            p {
+              width: 80%;
+
+              @extend .flexJustifyStart;
+            }
+          }
+        }
+
+        .btn-facebook {
+          background: #1b1b1b;
+          border: 1px solid #a9ded8;
+          outline: none;
+          padding-left: 20px;
+          width: 100%;
+          height: 60px;
+          color: #fff;
+          margin-top: 10px;
+          font-size: 1em;
+          border-radius: 4px;
+          cursor: pointer;
+
+          .facebook-container {
+            width: 160px;
+            height: 30px;
+
+            @extend .flexSpaceBetween;
+
+            .fa-facebook-f {
+              width: 15%;
+              height: 100%;
+
+              @extend .flexCenter;
+            }
+
+            p {
+              width: 80%;
+
+              @extend .flexJustifyStart;
+            }
+          }
+        }
+
+        .btn-apple {
+          background: #1b1b1b;
+          border: 1px solid #a9ded8;
+          outline: none;
+          padding-left: 20px;
+          width: 100%;
+          height: 60px;
+          color: #fff;
+          margin-top: 10px;
+          font-size: 1em;
+          border-radius: 4px;
+          cursor: pointer;
+
+          .apple-container {
+            width: 150px;
+            height: 30px;
+
+            @extend .flexSpaceBetween;
+
+            .fa-apple {
+              width: 15%;
+              height: 100%;
+
+              @extend .flexCenter;
+            }
+
+            p {
+              width: 80%;
+
+              @extend .flexJustifyStart;
+            }
+          }
+        }
+      }
+    }
+
+    .title-login-footer {
+      width: 100%;
+      height: 60px;
+
+      @extend .flexCenter;
+
+      p {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 19px;
+        display: flex;
+        align-items: center;
+
+        color: #ffffff;
+        cursor: pointer;
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .box-footer {
+    width: 90%;
+    height: 60px;
+
+    @extend .flexSpaceBetween;
+
+    p {
+      font-style: normal;
+      font-weight: 300;
+      font-size: 12px;
+      line-height: 16px;
+      display: flex;
+      align-items: center;
+
+      color: #979797;
+    }
+  }
+}
